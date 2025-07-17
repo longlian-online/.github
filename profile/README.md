@@ -1,12 +1,51 @@
-## Hi there 👋
+# ✨欢迎来到——夢怜龍華组！✨
 
-<!--
+我们是一个以**真·百合**为信仰而成立的同好团体，主要活动包括：
+📚 日语小说&漫画的汉化
+🎨 原创百合作品的创作（小说、漫画、游戏统统有！）
 
-**Here are some ideas to get you started:**
+我们是一群真正热爱百合的小伙伴，怀着同一个梦想聚集在一起——
+🌸希望能够为百合文化献上我们微小但坚定的心意🌸
+这就是我们最初、也是最纯粹的初心！
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌟各路大佬看过来！我们常驻招募中~🌟
+
+无论你是——
+🖋️ 喜欢写字，想当中文校对/润色的大佬
+📖 有百合脑洞，想自己写小说、找人配图的作者
+🖼️ 想画百合漫画，希望有剧情合作的画手
+🎨 擅长美术设计，能搞封面、立绘、宣传图的设计师
+🧩 想加入汉化组当图源、翻译、嵌字的小伙伴
+🌈 或者单纯就是——想为百合贡献一份爱的人！
+
+不管你是文系理系，萌新大佬，只要心中有**百合之火🔥**，我们都欢迎你来玩！
+
+## 🛑组内小规矩，请大家一定遵守噢（认真脸）
+
+🚫 **重中之重**：严禁任何对百合或百合爱好者的歧视性言论！
+📰 拒绝一切政治/新闻相关话题，咱们只谈二次元，不谈现实吵架~
+🚫 一切歧视性称呼say no！
+🧘‍♀️ 大家都要心平气和，理性发言~ 拒绝无意义争吵！
+💕 这是百合创作向社群，请尽量不要带入BL或一般向CP话题（容易引起不适哦~）
+
+让我们一起守护这个纯爱且温柔的空间 ✨
+
+## 🎮组内原创百合游戏企划进行中
+
+急招：程序 / 编剧 / 音乐 等同好！
+
+## 🈶汉化组也在热招中
+
+需要：图源、翻译、校对、嵌字、中文润色大佬
+（🎓大学以下的小伙伴请以学业为主！不过有余力也欢迎偷偷加入~）
+
+## 📮联系方式
+
+审核QQ：**1325738680**
+水群Q群号：**1003580901**（←群名就是夢怜龍華组）
+
+不管你是想来创作、想来学习、还是单纯想水群闲聊的，
+💗只要你对百合有爱，我们都欢迎你的到来！💗
+愿我们一起守护属于百合的纯净乐园！
+
+**梦与百合的火花，由你我点亮！** 🌙🌸
